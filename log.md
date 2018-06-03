@@ -8,4 +8,10 @@
 
 **Link to work:** N/A (not uploaded to github currently)
 
+### Day 2: June 2, 2018
 
+**Today's Progress**: Did predictive analysis of abalone data set from UCI ML repsository on the determiing the age of the abalone species found near the sea shores of tasmania .
+
+**Thoughts:** Applied regression model on the the dataset . Fized the issue of importing the dataset to the matrix of features . Still having some problem on plotting the ppints in the scatter plot . Overall was a satisfactory day since it was fun playing with it . Need to improve more on analysis . Learnt aboit the concpwt of correlation and its applocation in predictive analysis.
+
+**Link to work:** N/A (not uploaded to github currently)
