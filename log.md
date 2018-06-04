@@ -15,3 +15,11 @@
 **Thoughts:** Applied regression model on the the dataset . Fized the issue of importing the dataset to the matrix of features . Still having some problem on plotting the ppints in the scatter plot . Overall was a satisfactory day since it was fun playing with it . Need to improve more on analysis . Learnt aboit the concpwt of correlation and its applocation in predictive analysis.
 
 **Link to work:** N/A (not uploaded to github currently)
+
+### Day 2: June 4, 2018
+
+**Today's Progress**:Implemented the Graph Colouring algorithm in C++ .
+
+**Thoughts:** Implemented the Graph Coloring method . A bit straight forward but satsifactory . Kept the streak on. Implemented in C++ to save more time nothing else. 
+
+**Link to work:** 
