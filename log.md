@@ -16,10 +16,21 @@
 
 **Link to work:** N/A (not uploaded to github currently)
 
-### Day 2: June 4, 2018
+### Day 3: June 4, 2018
 
 **Today's Progress**:Implemented the Graph Colouring algorithm in C++ .
 
 **Thoughts:** Implemented the Graph Coloring method . A bit straight forward but satsifactory . Kept the streak on. Implemented in C++ to save more time nothing else. 
 
 **Link to work:** https://github.com/ramemanatingideas/DS-And-Algorithms.git
+
+### Day 4: June 6, 2018
+
+**Today's Progress**:Did Predictive Analysis on Iris Dataset from UCI ML repository.
+
+**Thoughts:** Analysed the data from the repository . Applied multinomial classification using K-Nearest-Neighbours based on the validation of the model performance using the k-folds method . Got a good hands on approach on a small level data and on useful plots to understand the relation between the variables.
+
+**Link to work:** https://github.com/ramemanatingideas/ML-Practice.git
+
+
+
