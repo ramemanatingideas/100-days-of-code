@@ -32,5 +32,13 @@
 
 **Link to work:** https://github.com/ramemanatingideas/ML-Practice.git
 
+### Day 4: June 12, 2018
+
+**Today's Progress**:Created a Django project for Blog creation.
+
+**Thoughts:** Created and setup django for blog project feeling happy to just kick start the progress.
+
+**Link to work:** https://github.com/ramemanatingideas/Blog-Project.git
+
 
 
